@@ -1,1 +1,2 @@
-test
+asyncio>=3.4.3
+Telethon==1.23.0
